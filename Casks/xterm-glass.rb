@@ -7,7 +7,7 @@ cask "xterm-glass" do
   desc "Terminal with Apple's Liquid Glass look"
   homepage "https://github.com/bythebug/XTerm"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "XTerm.app"
 
