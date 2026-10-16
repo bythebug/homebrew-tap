@@ -1,6 +1,6 @@
 cask "xterm-glass" do
-  version "0.3"
-  sha256 "3e2035ef832814153b1690a3ba647c3d94223f7ca5539cd88ceaff3ca41c90e6"
+  version "0.4"
+  sha256 "f055be910e5b0676400db7f5505cc40a23e4a7a8f1b2711e9abc20e6796da661"
 
   url "https://github.com/bythebug/XTerm/releases/download/v#{version}/XTerm.zip"
   name "XTerm"
