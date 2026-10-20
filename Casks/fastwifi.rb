@@ -1,6 +1,6 @@
 cask "fastwifi" do
-  version "1.0"
-  sha256 "d9f84819ad6659a14fc6618d3b4040eaae0e98a22119a6276cba5f4919ccda26"
+  version "1.1"
+  sha256 "6e33cb23779b6dac51c125144844e6e89ae5c077da30f3cbf2ab6a7c2ca86ea9"
 
   url "https://github.com/bythebug/fastwifi/releases/download/v#{version}/FastWifi.zip"
   name "FastWifi"
