@@ -1,6 +1,6 @@
 cask "govee-lights" do
-  version "1.0"
-  sha256 "1a65af48db78650843dc393be1552985bafe96cf1e3e1515a30f1c73fd261b06"
+  version "1.1"
+  sha256 "bce2d67980812d4e6278893995bdccdc54725f58df1445e6a539b7d2d0bf7674"
 
   url "https://github.com/bythebug/govee-lights/releases/download/v#{version}/GoveeLights.zip"
   name "Govee Lights"
