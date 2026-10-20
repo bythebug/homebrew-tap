@@ -2,4 +2,5 @@
 
 ```sh
 brew install --cask bythebug/tap/xterm-glass
+brew install --cask bythebug/tap/govee-lights
 ```
